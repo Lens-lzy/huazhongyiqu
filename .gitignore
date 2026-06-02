@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# 编辑器
+.vscode/
+
+# 未被线上页面引用的「网页另存为」残留（约 99M，瘦身用）
+assets/aily 智能伙伴 · 华中一区 AI 助理培训.html
+assets/aily 智能伙伴 · 华中一区 AI 助理培训_files/
